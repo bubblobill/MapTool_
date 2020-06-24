@@ -11,4 +11,4 @@ Doors have various settings such as;
 - can be peeked through
 - can be paired to allow double doors
 
-Currently only work properly when actioned by GM.
+Currently only work properly when actioned by GM. This should be fixed with MT v1.8
