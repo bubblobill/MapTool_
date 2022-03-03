@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" id="open1">
+  <rect id="borderInside" x="1.44" y="1.37" width="45.1" height="45.1" rx="2.9" ry="2.9" fill="#e2f7fb" stroke="#1a92c2" stroke-width=".4881"/>
+  <rect id="borderOutside" x=".5" y=".5" width="47" height="47" rx="4" ry="4" fill="none" fill-opacity=".12" stroke="#3db6e5"/>
+  <rect id="doorFrame" x="11.9" y="6.41" width="24.1" height="35.1" fill="#ecfafe" stroke="#20718e" stroke-width=".938"/>
+  <path id="doorFront" d="m19.6 7.87 14.7-0.47v33l-14.4-0.8z" fill="#3db6e5" stroke-width=".4083"/>
+  <rect id="doorEdge" x="34.4" y="7.4" width=".578" height="33" fill="#1da2d6" stroke-width=".15116"/>
+  <ellipse id="doorknob" cx="21.9" cy="26" rx=".794" ry="1.17" fill="#e8ffff" stroke="#20718e" stroke-width=".16086"/>
+</svg>

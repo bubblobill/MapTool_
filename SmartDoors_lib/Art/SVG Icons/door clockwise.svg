@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" id="swingCW">
+   <rect id="borderInside" x="1.44" y="1.37" width="45.1" height="45.3" rx="2.97" ry="2.99" fill="#e2f7fb" stroke="#1a92c2" stroke-width=".4881"/>
+ <rect id="borderOutside" x=".5" y=".5" width="47" height="47" rx="4" ry="4" fill="none" fill-opacity=".12" stroke="#3db6e5"/>
+  <rect id="doorFrame" x="11.9" y="6.41" width="24.1" height="35.1" fill="#ecfafe" fill-opacity="1" stroke="#20718e" stroke-width=".938"/>
+  <g transform="matrix(.131 0 0 1 29.8 7)">
+    <path d="m-35.6 16.8c-47.1 0-84.4 4.8-84.4 10.6" style="fill:none;stroke-width:2.158;stroke:#20718e"/>
+    <path d="m-35.7 16.8-5.2-3.1 31.66 3.6-34.16 2.6z" style="fill:#20718e"/>
+  </g>
+  <path id="doorFront" d="m29.7 9.45 4.2-2.05v33l-4.1-2.3z" style="fill:#3db6e5;stroke-width:.4083"/>
+  <rect id="doorEdge" x="33.9" y="7.4" width="1.05" height="33" fill="#3db6e5" style="fill:#1da2d6;stroke-width:.2038"/>
+  <ellipse id="doorknob" cx="30.3" cy="26.3" rx=".288" ry="1.2" fill="#e8ffff" style="stroke-width:.09798;stroke:#20718e"/>
+</svg>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" id="lock">
+ <rect id="borderInside" x="1.44" y="1.37" width="45.1" height="45.3" rx="2.97" ry="2.99" fill="#e2f7fb" stroke="#1a92c2" stroke-width=".4881"/>
+ <rect id="borderOutside" x=".5" y=".5" width="47" height="47" rx="4" ry="4" fill="none" fill-opacity=".12" stroke="#3db6e5"/>
+  <rect id="lockBody" x="11.9" y="21.9" width="24.1" height="19.6" style="fill:#20718e;stroke-width:.70188;stroke:#20718e"/>
+  <path id="lockShackle" d="m15 22.1v-3.7c0-5 4.1-9.11 9-9.11s9 4.11 9 9.11v10.4" style="fill:none;stroke-width:2.72;stroke:#20718e"/>
+</svg>

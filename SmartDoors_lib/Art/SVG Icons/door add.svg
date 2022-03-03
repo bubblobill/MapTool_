@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" id="add">
+ <rect id="borderInside" x="1.44" y="1.37" width="45.1" height="45.3" rx="2.97" ry="2.99" fill="#e2f7fb" stroke="#1a92c2" stroke-width=".4881"/>
+ <rect id="borderOutside" x=".5" y=".5" width="47" height="47" rx="4" ry="4" fill="none" fill-opacity=".12" stroke="#3db6e5"/>
+ <rect id="doorFrame" x="11.9" y="6.41" width="24.1" height="35.1" fill="#ecfafe" stroke="#20718e" stroke-width=".938"/>
+ <rect id="doorFront" x="13" y="7.4" width="22" height="33" fill="#3db6e5" stroke-width=".93182"/>
+ <rect id="doorEdge" x="33.9" y="7.4" width="1.1" height="33" fill="#3db6e5" stroke-width=".20822"/>
+ <circle id="doorknob" cx="15.6" cy="26.3" r="1.2" fill="#e8ffff" stroke="#20718e" stroke-width=".2"/>
+ <path d="m22 24.1v-4h-4v-4h4v-4h4v4h4v4h-4v4z" fill="#00ff00" stroke="#000000" stroke-width=".5"/>
+ <path d="m26.9 24.1-2.9-3.1-2.9 3.1h-3.1v-3.1l3.1-2.9-3.1-2.9v-3.1h3.1l2.9 3.1 2.9-3.1h3.1v3.1l-3.1 2.9 3.1 2.9v3.1z" display="none" fill="#ff0000" stroke="#000000" stroke-width=".5"/>
+</svg>

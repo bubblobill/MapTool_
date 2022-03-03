@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" id="nopeek">
+  <rect id="borderInside" x="1.44" y="1.37" width="45.1" height="45.3" rx="2.97" ry="2.99" fill="#e2f7fb" stroke="#1a92c2" stroke-width=".4881"/>
+ <rect id="borderOutside" x=".5" y=".5" width="47" height="47" rx="4" ry="4" fill="none" fill-opacity=".12" stroke="#3db6e5"/>
+  <rect id="lockPlate" x="11.9" y="6.45" width="24.1" height="35.1" rx="4" ry="6" fill="#1a92c2" stroke="#3db6e5"/>
+  <path id="keyhole" d="m14 18.4c0-5.5 4.5-9.97 10-9.97s10 4.47 10 9.97c0 2.8-1.1 5.3-2.9 7.1l1.2 13.1h-16.6l1.2-13.1c-1.8-1.8-2.9-4.3-2.9-7.1z" fill="#e2f7fb" stroke="#1a92c2" stroke-linejoin="round"/>
+  <circle id="prohibitBorder" x="0" y="0" r="11" fill="#e2f7fb" cx="34" cy="14" stroke-width="2.112" stroke="#e2f7fb" stroke-opacity="0.5" fill-opacity="0.86" />
+  <path id="prohibit" d="m 40,20.2 c -3.4,3.4 -9,3.4 -12.4,0 -3.4,-3.3 -3.4,-9 0,-12.38 L 40,20.2 c 3.4,-3.3 3.4,-9 0,-12.38 -3.4,-3.4 -9,-3.4 -12.4,0" fill="none" stroke="#ff0000" stroke-linecap="round" stroke-linejoin="bevel" stroke-width="1.84471"/>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg" id="unlink">
+ <rect id="borderOutside" x=".5" y=".5" width="47" height="47" rx="4" ry="4" fill="none" fill-opacity=".12" stroke="#3db6e5"/>
+ <rect id="borderInside" x="1.44" y="1.37" width="45.1" height="45.3" rx="2.97" ry="2.99" fill="#e2f7fb" stroke="#1a92c2" stroke-width=".4881"/>
+ <path d="m16.6 27c-2.8-3.4-0.9-9.2 3.9-13.2l11.7-9.42" fill="none" opacity=".9348" stroke="#20718e" stroke-width=".938"/>
+ <path d="m21.2 23.5c-0.9-1.1 0.4-3.3 2.6-5.2l11.9-9.49" fill="none" opacity=".9348" stroke="#20718e" stroke-width=".94826"/>
+ <path d="m18.8 25.1c-1.7-2-0.2-6.1 3.4-9l11.7-9.61" fill="none" opacity=".9348" stroke="#3db6e5" stroke-width="4.851"/>
+ <ellipse transform="matrix(.842 -.539 .565 .825 0 0)" cx="1.22" cy="31.2" rx="3" ry="1.6" fill="#e2f7fb" opacity=".9348" stroke="#20718e" stroke-dashoffset=".24" stroke-linecap="round" stroke-width=".82786"/>
+ <path d="m3.72 23.3 6.58-7.8c4-4.7 11.1-5.4 16-1.4l0.7 0.7m-3.8 4.4-1.2-1" fill="none" stroke="#20718e" stroke-width=".938"/>
+ <ellipse transform="matrix(.779 -.627 .651 .759 0 0)" cx="7.79" cy="28.7" rx="3" ry="1.6" fill="#3db6e5" stroke="#20718e" stroke-dashoffset=".24" stroke-linecap="round" stroke-width=".82797"/>
+ <path d="m5.93 25.1 6.47-7.9c2.9-3.5 9.4-4 12.6-0.3" fill="none" stroke="#3db6e5" stroke-width="4.851"/>
+ <path d="m8.12 26.9 6.68-8.1c1.8-2.1 6.9-2.1 7.8 0.1" fill="none" stroke="#20718e" stroke-width=".94826"/>
+ <path d="m15.1 40.1 11.6-6.8c4-2.2 5.4-7.3 3-11.4" fill="none" stroke="#3db6e5" stroke-width="4.851"/>
+ <path d="m13.5 37.8 12-6.9c2.5-1.5 3.4-4.6 1.9-7.2l4.7-3.4c3.1 5.5 1.4 12.5-4.1 15.7l-11.4 6.6" fill="none" stroke="#20718e" stroke-width=".94826"/>
+ <ellipse transform="matrix(.779 -.627 .651 .759 0 0)" cx="8.23" cy="35.7" rx="3" ry="1.6" fill="#e2f7fb" stroke="#20718e" stroke-dashoffset=".24" stroke-linecap="round" stroke-width=".82797"/>
+ <ellipse transform="matrix(.7 -.714 .736 .677 0 0)" cx="-5.02" cy="37.1" rx="3" ry="1.6" fill="#3db6e5" stroke="#20718e" stroke-dashoffset=".24" stroke-linecap="round" stroke-width=".82796"/>
+ <path d="m40.9 14.5-8.2 10.5c-2.9 3.6-6.9 5.2-9.1 3.5" fill="none" stroke="#3db6e5" stroke-width="4.851"/>
+ <path d="m39.2 12.8-8.6 10.9c-1.8 2.2-4.1 3.4-5.1 2.6" fill="none" stroke="#20718e" stroke-width=".94826"/>
+ <path d="m43.2 16.5-8.2 10.2c-3.8 5-9.7 6.8-13.2 4.1" fill="none" stroke="#20718e" stroke-width=".938"/>
+</svg>
